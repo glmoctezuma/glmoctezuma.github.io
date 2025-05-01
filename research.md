@@ -22,8 +22,7 @@ Under Review
     Agranov](https://agranov.caltech.edu/), [Omer
     Tamuz](http://tamuz.caltech.edu/), [Philipp Strack](https://www.philippstrack.com/)).
 
-* [**Reputation in a Committee with Multiple Principals: The Case of
-  the FOMC**](/research/reputation) (with [Matias
+* [**Career Concerns in Collective Decision-Making: The Federal Open Market Committee**](/research/reputation) (with [Matias
   Iaryczower](http://scholar.princeton.edu/miaryc/) and Paola Moscariello).
   
 
