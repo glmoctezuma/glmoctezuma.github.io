@@ -22,6 +22,8 @@ Under Review
     Agranov](https://agranov.caltech.edu/), [Omer
     Tamuz](http://tamuz.caltech.edu/), [Philipp Strack](https://www.philippstrack.com/)).
 
+R & R at the Journal of Economic Theory
+
 * [**Career Concerns in Collective Decision-Making: The Federal Open Market Committee**](/research/reputation) (with [Matias
   Iaryczower](http://scholar.princeton.edu/miaryc/) and Paola Moscariello).
   
