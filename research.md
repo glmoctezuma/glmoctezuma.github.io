@@ -16,7 +16,7 @@ Under Review
   [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson)).
   
   R & R
-  at the Journal of Politics.
+  at the QJPS.
   
 * [**Learning through Imitation: an Experiment**](/research/learning)  (with [Marina
     Agranov](https://agranov.caltech.edu/), [Omer
