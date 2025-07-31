@@ -10,8 +10,7 @@ social learning through sequential deliberation. In the model,
 committee members offer policy recommendations one after another,
 weighing their own information and biases against the views expressed
 by prior speakers. We apply this framework to quantify social learning
-in the U.S. Federal Open Market Committee (FOMC) between 1970 and
-2008. The results show that earlier recommendations significantly
+in the U.S. Federal Open Market Committee (FOMC) between 1970 and 2008. The results show that earlier recommendations significantly
 influence the decisions of later speakers and, ultimately, aggregate monetary policy. Contrary to standard models of
 social learning, the FOMC's sequential process enhances the quality of
 policy decisions relative to a benchmark in which members rely solely
