@@ -7,7 +7,7 @@ permalink: /research/
 # Working Papers
 
  
-* [**Sequential Deliberation in Collective Decision-Making: The Case of the FOMC**](/research/seq).
+* [**Social Learning and Sequential Deliberation in Policy-Making: Evidence from the FOMC**](/research/seq).
 
 Under Review
 

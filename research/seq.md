@@ -5,22 +5,24 @@ permalink: /research/seq/
 ---
 
 <h1 style="text-align: center;" markdown="1"> Abstract</h1>
-I estimate a model of policymaking that incorporates
-social learning via deliberation. In the model, committee members
-speak in sequence, balancing their private information and
-biases against recommendations made by others. I quantify the extent
-of social learning in the Federal Open Market Committee. I find
-that the process of deliberation significantly changes individual behavior
-and aggregate monetary policy: the average committee member
-changes her recommendation in approximately 36 percent of the meetings
-after listening to previous speakers. Counterfactual simulations
-show that the observed deliberation order within the FOMC has been
-effective at reducing the probability of mistakes.
-<br>
+We develop and estimate a model of policy-making that incorporates
+social learning through sequential deliberation. In the model,
+committee members offer policy recommendations one after another,
+weighing their own information and biases against the views expressed
+by prior speakers. We apply this framework to quantify social learning
+in the U.S. Federal Open Market Committee (FOMC) between 1970 and
+2008. The results show that earlier recommendations significantly
+influence the decisions of later speakers and, ultimately, aggregate monetary policy. Contrary to standard models of
+social learning, the FOMC's sequential process enhances the quality of
+policy decisions relative to a benchmark in which members rely solely
+on their private information. Counterfactual simulations further
+indicate that the observed deliberation order within the FOMC leads to
+more effective monetary policy than alternative sequential decision-making
+mechanisms.<br>
 <span style="color: blue">
-[Download Paper (Last Version: August, 2023)](https://www.dropbox.com/scl/fi/5b04qm272kbp2cxvqukuf/sequential_11.pdf?rlkey=9n1c0walqr5yelgsrenjed2ce&dl=0) </span>
+[Download Paper (Last Version: August, 2025)](https://www.dropbox.com/scl/fi/u0s87j7uo1rpacqavofjs/manuscript_jeea.pdf?rlkey=d73pfontmk2jr9s527ac5fus7&dl=0) </span>
 <br>
-<span style="color: blue"> [Download Appendix](https://www.dropbox.com/scl/fi/ttkv2tsorgg6vhzou9ckm/online_app.pdf?rlkey=xkre0bj0mlfgggrxysp5lkjs9&dl=0) </span>
+<span style="color: blue"> [Download Appendix](https://www.dropbox.com/scl/fi/xvrwdsktypzo41geqzuj2/online_app.pdf?rlkey=tw2tszoe2i0ol7cu56gygkpl3&dl=0) </span>
 
 
 
