@@ -15,7 +15,7 @@ Under Review
   Seniority Voting in the US Supreme Court**](/research/seq_sc) (with
   [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson)).
   
-  R & R
+  Conditionally accepted
   at the QJPS.
   
 * [**Learning through Imitation: an Experiment**](/research/learning)  (with [Marina
