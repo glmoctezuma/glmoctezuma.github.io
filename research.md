@@ -35,7 +35,7 @@ Revised and Resubmit at the Journal of Economic Theory
 
 
 # Publications
-	* [**Social Learning Behind Closed Doors: Evidence from
+* [**Social Learning Behind Closed Doors: Evidence from
 Seniority Voting in the US Supreme Court**](/research/seq_sc)
 (Conditionally accepted
 	at the *Quarterly Journal of Political Science*) with
