@@ -11,18 +11,12 @@ permalink: /research/
 
 Under Review
 
-* [**Social Learning Behind Closed Doors: Evidence from
-  Seniority Voting in the US Supreme Court**](/research/seq_sc) (with
-  [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson)).
-  
-  Conditionally accepted
-  at the QJPS.
   
 * [**Learning through Imitation: an Experiment**](/research/learning)  (with [Marina
     Agranov](https://agranov.caltech.edu/), [Omer
     Tamuz](http://tamuz.caltech.edu/), [Philipp Strack](https://www.philippstrack.com/)).
 
-R & R at the Journal of Economic Theory
+Revised and Resubmit at the Journal of Economic Theory
 
 * [**Career Concerns in Collective Decision-Making: The Federal Open Market Committee**](/research/reputation) (with [Matias
   Iaryczower](http://scholar.princeton.edu/miaryc/) and Paola Moscariello).
@@ -41,13 +35,20 @@ R & R at the Journal of Economic Theory
 
 
 # Publications
+	* [**Social Learning Behind Closed Doors: Evidence from
+Seniority Voting in the US Supreme Court**](/research/seq_sc)
+(Conditionally accepted
+	at the *Quarterly Journal of Political Science*) with
+	[Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson)).
+	
  * [**Career Concerns and the Dynamics of Electoral Accountability**](/research/sendyn)
-  (Forthcoming at the *American Journal of Political Science*) with
+  (*American Journal of Political Science* (2024), 68, 696-713) with
   [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and
   [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
 
-* [__The Dynamics of Electoral Coalitions__](/research/coalition)
-  (Forthcoming at the  *American Journal of Political Science*) with
+* [**Sleeping with the Enemy: Effective Representation under Dynamic
+  Electoral Competition**](/research/coalition)
+  (*American Journal of Political Science* (2023), 67(4), 915-931) with
   [Anderson Frey](https://www.andersonfrey.com) and [Sergio
   Montero](https://www.sas.rochester.edu/psc/smontero/ )
   

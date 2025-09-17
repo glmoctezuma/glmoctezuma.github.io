@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Sequential Deliberation in Collective Decision-Making&#58 <br> The Case of the FOMC
+title: Social Learning and Sequential Deliberation in
+Policy-Making&#58 <br> Evidence from the FOMC
 permalink: /research/seq/
 ---
 
