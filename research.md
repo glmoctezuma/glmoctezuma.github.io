@@ -59,7 +59,7 @@ Seniority Voting in the US Supreme Court**](/research/seq_sc)
 
 * [__Policy Deliberation and Voter Persuasion: Experimental Evidence
   from an Election in the Philippines__](/research/philippines)
-  (Forthcoming at the  *American Journal of Political Science*)
+   (*American Journal of Political Science* (2022), 66(1), 59-74) 
   with [Leonard Wantchekon](http://scholar.princeton.edu/lwantche),
   [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), Daniel
   Rubenson, and Cecilia Pe Lero.
