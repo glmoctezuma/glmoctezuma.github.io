@@ -12,5 +12,3 @@ A current version of my CV is below. You can also
 <embed src="/pdfs/cv.pdf" width="100%" height="800px" type="application/pdf">
 
 <!-- {% include embedpdf.html code="4vroiojrnl49h97/cv.pdf" width=100 height=800 %} -->
-
-
