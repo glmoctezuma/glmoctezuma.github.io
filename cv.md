@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 A current version of my CV is below. You can also
-[download the PDF here](https://www.dropbox.com/scl/fi/ttn3axbw3lcf519bd1etp/cv.pdf?rlkey=x5ix9k3swz26iwyqxkwp40li1&dl=0).
+[download the PDF here](https://www.dropbox.com/scl/fi/lt762fmcogrm3ccvx5evf/cv.pdf?rlkey=s8xehkflz6svrziee7w2l03kr&dl=0).
 
 ## View the PDF
 
