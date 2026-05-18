@@ -11,13 +11,6 @@ permalink: /research/
 
 Under Review
 
-  
-* [**Learning through Imitation: an Experiment**](/research/learning)  (with [Marina
-    Agranov](https://agranov.caltech.edu/), [Omer
-    Tamuz](http://tamuz.caltech.edu/), [Philipp Strack](https://www.philippstrack.com/)).
-
-Revised and Resubmit at the Journal of Economic Theory
-
 * [**Career Concerns in Collective Decision-Making: The Federal Open Market Committee**](/research/reputation) (with [Matias
   Iaryczower](http://scholar.princeton.edu/miaryc/) and Paola Moscariello).
   
@@ -35,11 +28,17 @@ Revised and Resubmit at the Journal of Economic Theory
 
 
 # Publications
+* [**Learning through Imitation: an Experiment**](/research/learning)
+(Forthcoming at the *Journal of Economic Theory*) with [Marina
+    Agranov](https://agranov.caltech.edu/), [Omer
+    Tamuz](http://tamuz.caltech.edu/), [Philipp Strack](https://www.philippstrack.com/).
+
+
 * [**Social Learning Behind Closed Doors: Evidence from
 Seniority Voting in the US Supreme Court**](/research/seq_sc)
 (Conditionally accepted
 	at the *Quarterly Journal of Political Science*) with
-	[Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson)).
+	[Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson).
 	
  * [**Career Concerns and the Dynamics of Electoral Accountability**](/research/sendyn)
   (*American Journal of Political Science* (2024), 68, 696-713) with

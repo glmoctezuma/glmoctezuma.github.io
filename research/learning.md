@@ -16,7 +16,7 @@ optimal action more often in the second setting. We also investigate
 the effect of group size, as well as a setting in which agents observe
 private data and others' actions.
 <br>
-<span style="color: blue"> [Download Paper (Last Version: August, 2025)](https://www.dropbox.com/scl/fi/uw4n5l24sj2pnakkyee7g/Learning_from_Signals_and_Actions.pdf?rlkey=0f3jqjb2njb758suzj2dcnd4v&dl=0)
+<span style="color: blue"> [Download Paper (Last Version: May, 2026)](https://www.dropbox.com/scl/fi/xinz8amkn0heggu58a6jt/revision.pdf?rlkey=8qndvve5dc3dqyepdxcvt6vmy&st=acj0mfzu&dl=0)
 <br>
-<span style="color: blue"> [Download Online Appendix](https://www.dropbox.com/s/v7ehu7dfhmj21o5/imitationAppendix.pdf?dl=0) </span>
+<span style="color: blue"> [Download Online Appendix](https://www.dropbox.com/scl/fi/011q37kxzkeiwjculnx0d/OnlineAppendix.pdf?rlkey=5cx8z7fob2ievthuu66bths0v&st=1t0pqy0x&dl=0) </span>
 
