@@ -16,7 +16,10 @@ Under Review
   
 Under Review
 
- * [**Money and Votes in Electoral Competition: Evidence from the US Senate**](/research/donors.md)  (with [Matias
+* [**Party Discipline across Electoral Mandates and Career Concerns: Theory and Evidence from Votes and Speech in the Mexican Congress**](/research/discipline) (with [Camila Blanes](https://cblanes.github.io/)).
+
+
+* [**Money and Votes in Electoral Competition: Evidence from the US Senate**](/research/donors.md)  (with [Matias
   Iaryczower](http://scholar.princeton.edu/miaryc/) and  [Ted Enamorado](https://www.tedenamorado.com/)).
 
 
@@ -37,7 +40,7 @@ Under Review
 
 * [**Social Learning Behind Closed Doors: Evidence from
 Seniority Voting in the US Supreme Court**](/research/seq_sc)
-(Conditionally accepted
+(Forthcoming
 	at the *Quarterly Journal of Political Science*) with
 	[Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson).
 	
