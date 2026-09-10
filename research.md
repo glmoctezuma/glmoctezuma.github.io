@@ -31,11 +31,11 @@ permalink: /research/
 
 * [**Learning through Imitation: An Experiment**](/research/learning/)
   with [Marina Agranov](https://agranov.caltech.edu/), [Philipp Strack](https://www.philippstrack.com/), and [Omer Tamuz](http://tamuz.caltech.edu/).
-  *Journal of Economic Theory*, forthcoming.
+  *Journal of Economic Theory*, 235 (2026), 106203.
 
 * [**Social Learning Behind Closed Doors: Evidence from Seniority Voting in the US Supreme Court**](/research/seq_sc/)
-  with [Ben Johnson](https://pennstatelaw.psu.edu/faculty/johnson).
-  *Quarterly Journal of Political Science*, forthcoming.
+  with [Ben Johnson](https://law.ufl.edu/faculty/ben-johnson/).
+  *Quarterly Journal of Political Science* (2025), published online ahead of print.
 
 * [**Career Concerns and the Dynamics of Electoral Accountability**](/research/sendyn/)
   with [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
