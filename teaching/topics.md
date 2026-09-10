@@ -14,4 +14,4 @@ economic policy and outcomes, and the role of special interests in
 politics through the lobbying process.
 <br>
 <br>
-<span style="color: blue"> [Course Syllabus](https://www.dropbox.com/s/hu1ysmv0wpn9wer/syllabus_202c_2021.pdf?dl=0)
+<span style="color: blue"> [Course Syllabus](https://www.dropbox.com/s/hu1ysmv0wpn9wer/syllabus_202c_2021.pdf?dl=0) </span>

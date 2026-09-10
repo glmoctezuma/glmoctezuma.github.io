@@ -26,7 +26,7 @@ were meant to check.
 <br>
 <br>
 <br>
-<span style="color: blue"> [Download Paper (Last Version: August, 2026)](https://www.dropbox.com/scl/fi/rsxwp6hwuet8vj63nxy7n/PartyDiscipline_8.pdf?rlkey=zn43uh8445ej5mjke0drlkva1&dl=0)
+<span style="color: blue"> [Download Paper (Last Version: August, 2026)](https://www.dropbox.com/scl/fi/rsxwp6hwuet8vj63nxy7n/PartyDiscipline_8.pdf?rlkey=zn43uh8445ej5mjke0drlkva1&dl=0) </span>
 <br>
 <span style="color: blue"> [Appendix](https://www.dropbox.com/scl/fi/2ib8qptr7t5bu73h6k83d/online_appendix.pdf?rlkey=jrhupd3azn76z59fr3sisky1i&dl=0) </span>
 <br>

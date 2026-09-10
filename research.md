@@ -46,8 +46,8 @@ permalink: /research/
   *American Journal of Political Science*, 67 (2023), 915–931.
 
 * [**Policy Deliberation and Voter Persuasion: Experimental Evidence from an Election in the Philippines**](/research/philippines/)
-  with [Leonard Wantchekon](http://scholar.princeton.edu/lwantche), [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), Daniel Rubenson, and Cecilia Pe Lero.
-  *American Journal of Political Science*, 66 (2022), 59–74.
+  with [Leonard Wantchekon](http://scholar.princeton.edu/lwantche), Daniel Rubenson, [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), and Cecilia Pe Lero.
+  *American Journal of Political Science*, 66(1) (2022), 59–74.
 
 * [**Scaling Data from Multiple Sources**](/research/m2ds/)
   with [Ted Enamorado](https://www.tedenamorado.com/) and [Marc Ratkovic](http://www.princeton.edu/~ratkovic/).
@@ -57,7 +57,7 @@ permalink: /research/
 
 * [**Forecast Revisions of Mexican Inflation and GDP Growth**](/research/forerev/)
   with [Carlos Capistran](http://www.carloscapistran.com/).
-  *International Journal of Forecasting*, 30 (2014), 177–191.
+  *International Journal of Forecasting*, 30(2) (2014), 177–191.
 
 * [**The Macroeconomic Expectations of Experts: An Evaluation of Mexican Short-run Forecasts**](/research/foreeff/)
   with [Carlos Capistran](http://www.carloscapistran.com/).

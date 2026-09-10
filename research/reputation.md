@@ -27,5 +27,5 @@ even in spite of increased conformity for some committee members.
 <br>
 <br>
 <br>
-<span style="color: blue"> [Download Paper (Last Version: May, 2025)](https://www.dropbox.com/scl/fi/fh021ns6sfm0que06a9oj/reputation_FOMC3.pdf?rlkey=ckqpc3om275345m03crc9mkn3&dl=0)
+<span style="color: blue"> [Download Paper (Last Version: May, 2025)](https://www.dropbox.com/scl/fi/fh021ns6sfm0que06a9oj/reputation_FOMC3.pdf?rlkey=ckqpc3om275345m03crc9mkn3&dl=0) </span>
 

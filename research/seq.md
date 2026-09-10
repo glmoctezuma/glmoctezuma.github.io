@@ -17,12 +17,7 @@ policy decisions relative to a benchmark in which members rely solely
 on their private information. Counterfactual simulations further
 indicate that the observed deliberation order within the FOMC leads to
 more effective monetary policy than alternative sequential decision-making
-mechanisms.<br>
-<span style="color: blue">
-[Download Paper (Last Version: August, 2025)](https://www.dropbox.com/scl/fi/u0s87j7uo1rpacqavofjs/manuscript_jeea.pdf?rlkey=d73pfontmk2jr9s527ac5fus7&dl=0) </span>
-<br>
-<span style="color: blue"> [Download Appendix](https://www.dropbox.com/scl/fi/xvrwdsktypzo41geqzuj2/online_app.pdf?rlkey=tw2tszoe2i0ol7cu56gygkpl3&dl=0) </span>
+mechanisms.
 
-
-
-
+* [Download Paper (Last version: August 2025)](https://www.dropbox.com/scl/fi/u0s87j7uo1rpacqavofjs/manuscript_jeea.pdf?rlkey=d73pfontmk2jr9s527ac5fus7&dl=0)
+* [Download Appendix](https://www.dropbox.com/scl/fi/xvrwdsktypzo41geqzuj2/online_app.pdf?rlkey=tw2tszoe2i0ol7cu56gygkpl3&dl=0)
