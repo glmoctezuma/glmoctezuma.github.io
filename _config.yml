@@ -1,8 +1,8 @@
 # Site settings
 title: Gabriel Lopez-Moctezuma
-email: glmoctezuma@caltech.edu
+email: glopezmo@cougarnet.uh.edu
 author: Gabriel López-Moctezuma
-description: "Gabriel López-Moctezuma, Assistant Professor of Political Science at Caltech. Research on collective decision-making in committees and elections."
+description: "Gabriel López-Moctezuma, Assistant Professor of Political Science at the University of Houston. Research on collective decision-making in committees and elections."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.glmoctezuma.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
@@ -17,7 +17,7 @@ plugins:
 markdown: kramdown
 
 # Other options
-jobtitle: Assistant Professor
+jobtitle: Assistant Professor in Political Science
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 

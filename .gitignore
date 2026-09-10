@@ -11,3 +11,4 @@ _preview
 *.aux
 *.out
 *.synctex.gz
+*.log
