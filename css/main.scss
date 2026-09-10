@@ -6,7 +6,17 @@
 
 
 // Our variables
-$base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+// Typefaces. Both families are loaded in _includes/head.html, so switching
+// is a matter of swapping which block is commented out. If you settle on
+// option 1, drop Source Serif 4 from that stylesheet URL.
+//
+// Option 2 (active) -- serif reading text, sans headings and nav
+$base-font-family:    'Source Serif 4', Georgia, 'Times New Roman', serif;
+$heading-font-family: 'Inter', Helvetica, Arial, sans-serif;
+
+// Option 1 -- neutral sans throughout
+// $base-font-family:    'Inter', Helvetica, Arial, sans-serif;
+// $heading-font-family: 'Inter', Helvetica, Arial, sans-serif;
 $base-font-size:   .95em;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
