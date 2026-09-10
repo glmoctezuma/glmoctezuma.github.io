@@ -27,6 +27,9 @@ permalink: /research/
 * Scaling Votes and Words from the FOMC,
   with [Ted Enamorado](https://www.tedenamorado.com/) and [Marc Ratkovic](http://www.princeton.edu/~ratkovic/).
 
+* Campaign Issues and Media Coverage,
+  with [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/).
+
 # Publications
 
 * [**Learning through Imitation: An Experiment**](/research/learning/)
