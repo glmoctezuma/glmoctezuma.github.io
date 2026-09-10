@@ -39,11 +39,11 @@ permalink: /research/
 
 * [**Career Concerns and the Dynamics of Electoral Accountability**](/research/sendyn/)
   with [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and [Adam Meirowitz](http://www.princeton.edu/~ameirowi/).
-  *American Journal of Political Science*, 68 (2024), 696–713.
+  *American Journal of Political Science*, 68(2) (2024), 696–713.
 
 * [**Sleeping with the Enemy: Effective Representation under Dynamic Electoral Competition**](/research/coalition/)
   with [Anderson Frey](https://www.andersonfrey.com) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/).
-  *American Journal of Political Science*, 67 (2023), 915–931.
+  *American Journal of Political Science*, 67(4) (2023), 915–931.
 
 * [**Policy Deliberation and Voter Persuasion: Experimental Evidence from an Election in the Philippines**](/research/philippines/)
   with [Leonard Wantchekon](http://scholar.princeton.edu/lwantche), Daniel Rubenson, [Thomas Fujiwara](http://www.princeton.edu/~fujiwara), and Cecilia Pe Lero.
@@ -61,7 +61,7 @@ permalink: /research/
 
 * [**The Macroeconomic Expectations of Experts: An Evaluation of Mexican Short-run Forecasts**](/research/foreeff/)
   with [Carlos Capistran](http://www.carloscapistran.com/).
-  *El Trimestre Económico*, 77(2), no. 306 (2010), 275–312.
+  *El Trimestre Económico*, LXXVII(2), no. 306 (2010), 275–312.
 
 * [**Inefficiencies in the Peso-Dollar Exchange Rate Market: Is it Risk Premia or Irrationality?**](/research/fx/)
   with Andrea San Martin.
