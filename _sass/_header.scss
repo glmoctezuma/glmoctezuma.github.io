@@ -3,9 +3,9 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $princeton-black;
+	border-bottom: 4px solid $header-rule;
     min-height: 56px;
-    background: $princeton-orange;
+    background: $header-bg;
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -20,10 +20,10 @@
     float: left;
     font-weight: 500;
 		font-family: 'Titillium Web', sans-serif;
-    color: #ffffff;
+    color: $header-fg;
     &,
     &:visited {
-        color: #ffffff;
+        color: $header-fg;
     }
     &,
     &:hover {
@@ -37,7 +37,7 @@
 }
 
 .site-nav ul li a {
-	color: #fff;
+	color: $header-fg;
 }
 
 .site-nav ul {
@@ -70,7 +70,7 @@
 
 .site-nav a {
 	display: block;
-        color: #ffffff;
+        color: $header-fg;
 }
 
 /* Sub Menu */
@@ -82,23 +82,23 @@
 	letter-spacing: 0;
 	line-height: 1.2em;
 	padding: 4px 10px;
-color: #522d80;
+color: $header-title;
 
 }
 
 .site-nav .sub-menu a:hover {
-	color: $princeton-orange;
+	color: $accent-color;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
-	border-color: $princeton-black;
+	border-color: $header-rule;
 	min-width: 265px;
 
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $princeton-orange;
-	border-right-color: $princeton-orange;
+	border-left-color: $accent-color;
+	border-right-color: $accent-color;
 	border-right: 0px;
 
 }
@@ -156,8 +156,8 @@ z-index:999;
     }
 
     .page-link {
-        color: #ffffff;
-    background: $princeton-orange;
+        color: $header-fg;
+    background: $header-bg;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one

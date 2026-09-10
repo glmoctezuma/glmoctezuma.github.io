@@ -15,12 +15,44 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #0077CC;
-// $gameday-sky: #109dc0;
-$clemson-purple:      #522d80;
-$clemson-orange:      #f66733;
-$princeton-orange:    #ff8f00;
-$princeton-black:     #000000;
+
+// ---------------------------------------------------------------------------
+// Palette. Roles, not school colours -- swap the block to restyle the site.
+//   $header-bg     the top bar
+//   $header-fg     nav text sitting on that bar
+//   $header-title  the name on that bar
+//   $header-rule   the line under the bar, and sub-menu borders
+//   $accent-color  hovers and current-page marks (these sit on white)
+//   $heading-color headings and listing links
+//   $brand-color   body links
+// ---------------------------------------------------------------------------
+
+// A -- Charcoal (active)
+$header-bg:     #2e3338;
+$header-fg:     #e8e6e3;
+$header-title:  #ffffff;
+$header-rule:   #1b1e21;
+$accent-color:  #46627d;
+$heading-color: #1b1e21;
+$brand-color:   #35618f;
+
+// B -- Warm stone. Uncomment this block and comment out A to use it.
+// $header-bg:     #e9e5de;
+// $header-fg:     #55504a;
+// $header-title:  #2c2a26;
+// $header-rule:   #cfc7b9;
+// $accent-color:  #8a6f4e;
+// $heading-color: #2c2a26;
+// $brand-color:   #4a5f75;
+
+// C -- Ink on white.
+// $header-bg:     #ffffff;
+// $header-fg:     #3d3d3d;
+// $header-title:  #111111;
+// $header-rule:   #d8d8d8;
+// $accent-color:  #555555;
+// $heading-color: #111111;
+// $brand-color:   #2f5d8a;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
