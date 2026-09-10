@@ -59,3 +59,56 @@ $on-laptop:        950px;
         "syntax-highlighting",
 	"fancy-image"
 ;
+
+
+/**
+ * Home page intro: photo floats beside the text on desktop,
+ * stacks above it on narrow screens.
+ */
+.home {
+    .intro-photo {
+        float: left;
+        width: 300px;
+        max-width: 100%;
+        margin: 0 $spacing-unit $spacing-unit 0;
+        border-radius: 3px;
+    }
+
+    p {
+        text-align: justify;
+    }
+
+    @include media-query($on-palm) {
+        .intro-photo {
+            float: none;
+            display: block;
+            margin: 0 auto $spacing-unit;
+        }
+
+        p {
+            text-align: left;
+        }
+    }
+}
+
+/**
+ * Profile links in the footer.
+ */
+.social-media-list .username {
+    vertical-align: middle;
+}
+
+/**
+ * Inline CV viewer.
+ */
+.cv-embed {
+    display: block;
+    width: 100%;
+    height: 800px;
+    margin-top: $spacing-unit;
+    border: 1px solid $grey-color-light;
+
+    @include media-query($on-palm) {
+        height: 500px;
+    }
+}

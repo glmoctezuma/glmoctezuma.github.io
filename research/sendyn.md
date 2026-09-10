@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Dynamics of Electoral Accountability
+title: "Career Concerns and the Dynamics of Electoral Accountability"
 permalink: /research/sendyn/
 ---
 <h1 style="text-align: center;" markdown="1"> Abstract</h1>

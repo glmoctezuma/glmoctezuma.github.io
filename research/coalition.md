@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Sleeping with the Enemy: Effective Representation under Dynamic Electoral Competition
+title: "Sleeping with the Enemy: Effective Representation under Dynamic Electoral Competition"
+heading: "Sleeping with the Enemy:<br>Effective Representation under Dynamic Electoral Competition"
 permalink: /research/coalition/
 ---
 <h1 style="text-align: center;" markdown="1"> Abstract</h1>

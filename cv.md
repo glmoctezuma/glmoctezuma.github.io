@@ -4,14 +4,9 @@ title: CV
 permalink: /cv/
 ---
 
-A current version of my CV is below. You can also
-[download the PDF here](https://www.dropbox.com/scl/fi/lt762fmcogrm3ccvx5evf/cv.pdf?rlkey=s8xehkflz6svrziee7w2l03kr&dl=0).
+[**Download my CV (PDF)**]({{ "/pdfs/cv.pdf" | relative_url }})
 
-## View the PDF
-<embed
-src="https://www.dropbox.com/scl/fi/lt762fmcogrm3ccvx5evf/cv.pdf?rlkey=s8xehkflz6svrziee7w2l03kr&raw=1"
-       width="100%"
-	          height="800px"
-			         type="application/pdf">
-
-<!-- {% include embedpdf.html code="4vroiojrnl49h97/cv.pdf" width=100 height=800 %} -->
+<object class="cv-embed" data="{{ "/pdfs/cv.pdf" | relative_url }}" type="application/pdf">
+  <p>Your browser cannot display PDFs inline.
+  <a href="{{ "/pdfs/cv.pdf" | relative_url }}">Download the PDF instead</a>.</p>
+</object>

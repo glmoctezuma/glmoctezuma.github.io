@@ -29,6 +29,22 @@
           </li>
           {% endif %}
 
+          {% if site.google_scholar_id %}
+          <li>
+            <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}">
+              <span class="username">Google Scholar</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.orcid %}
+          <li>
+            <a href="https://orcid.org/{{ site.orcid }}">
+              <span class="username">ORCID</span>
+            </a>
+          </li>
+          {% endif %}
+
           {% if site.twitter_username %}
           <li>
             <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -55,6 +71,7 @@
           California Institute of Technology
 	  <br>
 	  Pasadena, California 91125
+	</p>
       </div>
     </div>
 

@@ -1,11 +1,14 @@
 # Site settings
 title: Gabriel Lopez-Moctezuma
 email: glmoctezuma@caltech.edu
-description: Academic Website of Gabriel L&#243pez-Moctezuma
+author: Gabriel López-Moctezuma
+description: "Gabriel López-Moctezuma, Assistant Professor of Political Science at Caltech. Research on collective decision-making in committees and elections."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://glmoctezuma.com" # the base hostname & protocol for your site
+url: "https://www.glmoctezuma.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  glmoctezuma
+google_scholar_id: "_d1Hq1YAAAAJ"
+# orcid: "0000-0000-0000-0000"   # add your ORCID iD here to show it in the footer
 
 plugins:
   - jekyll-seo-tag
@@ -20,7 +23,9 @@ permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
 # Google services
-google_analytics: UA-84011332-1
+# Universal Analytics (UA-84011332-1) was retired in July 2023.
+# To re-enable analytics, create a GA4 property and set the G-XXXXXXX id here.
+# google_analytics: 
 
 # SEO stuff
 #google_author: ""

@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Forecast Revisions of Mexican Inflation and GDP Growth
-
+title: "Forecast Revisions of Mexican Inflation and GDP Growth"
 permalink: /research/forerev/
 ---
-
 <h1 style="text-align: center;" markdown="1"> Abstract</h1>
 We analyze the forecasts of inflation and GDP growth contained in the
 Banco de México’s Survey of Professional Forecasters for the period

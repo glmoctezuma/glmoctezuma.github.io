@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Party Discipline across Electoral Mandates and Career Concerns:&#58 <br> Theory and Evidence from Votes and Speech in the Mexican Congress
+title: "Party Discipline across Electoral Mandates and Career Concerns: Theory and Evidence from Votes and Speech in the Mexican Congress"
+heading: "Party Discipline across Electoral Mandates and Career Concerns:<br>Theory and Evidence from Votes and Speech in the Mexican Congress"
 permalink: /research/discipline/
 ---
-
 <h1 style="text-align: center;" markdown="1"> Abstract</h1>
 We study how party discipline varies with electoral mandates and career
 concerns. In our model, partisan benefits induce discipline insofar as

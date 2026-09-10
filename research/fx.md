@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Inefficiencies in the Peso-Dollar Exchange Rate Market&#58 <br> Is it Risk Premia or Irrationality?
-
+title: "Inefficiencies in the Peso-Dollar Exchange Rate Market: Is it Risk Premia or Irrationality?"
+heading: "Inefficiencies in the Peso-Dollar Exchange Rate Market:<br>Is it Risk Premia or Irrationality?"
 permalink: /research/fx/
 ---
-
 <h1 style="text-align: center;" markdown="1"> Abstract</h1>
 The efficiency of the peso-dollar exchange rate market is evaluated for
 the period 1997-2007. Considering the term structure of interest rates,

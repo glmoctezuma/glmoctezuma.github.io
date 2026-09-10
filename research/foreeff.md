@@ -1,9 +1,9 @@
 ---
 layout: page
-title: The Macroeconomic Expectations of Experts&#58 <br> An Evaluation of Mexican Short-run Forecasts
+title: "The Macroeconomic Expectations of Experts: An Evaluation of Mexican Short-run Forecasts"
+heading: "The Macroeconomic Expectations of Experts:<br>An Evaluation of Mexican Short-run Forecasts"
 permalink: /research/foreeff/
 ---
-
 <h1 style="text-align: center;" markdown="1"> Abstract</h1>
 This document analyzes inflation, exchange rate, interest rate, and
 GDP growth forecasts from the monthly Survey of Professional
