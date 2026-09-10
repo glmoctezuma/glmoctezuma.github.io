@@ -4,7 +4,7 @@ title: "Social Learning Behind Closed Doors: Evidence from Seniority Voting in t
 heading: "Social Learning Behind Closed Doors:<br>Evidence from Seniority Voting in the US Supreme Court"
 permalink: /research/seq_sc/
 ---
-<h1 style="text-align: center;" markdown="1"> Abstract</h1>
+<h2 class="section-label">Abstract</h2>
 
 We analyze the implications of seniority voting on Supreme Court decision-making. We provide reduced-form evidence consistent with justices learning from the votes of their senior colleagues as determined by the voting mechanism. To explain this evidence, we develop and estimate a model of sequential voting with social learning. In the model, justices weigh spatial payoffs against the appropriateness of their disposition and consider their preferences, private information and the choices of senior justices. We recover estimates of judicial preferences, expertise and learning and use them to assess the quality of Supreme Court dispositions relative to alternative voting mechanisms. We find that the quality of the Court's dispositions would have improved under an anti-seniority rule, in which junior justices are allowed to vote first.
 

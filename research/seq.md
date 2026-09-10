@@ -4,7 +4,7 @@ title: "Social Learning and Sequential Deliberation in Policy-Making: Evidence f
 heading: "Social Learning and Sequential Deliberation in Policy-Making:<br>Evidence from the FOMC"
 permalink: /research/seq/
 ---
-<h1 style="text-align: center;" markdown="1"> Abstract</h1>
+<h2 class="section-label">Abstract</h2>
 We develop and estimate a model of policy-making that incorporates
 social learning through sequential deliberation. In the model,
 committee members offer policy recommendations one after another,

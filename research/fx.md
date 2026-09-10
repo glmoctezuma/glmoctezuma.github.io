@@ -4,7 +4,7 @@ title: "Inefficiencies in the Peso-Dollar Exchange Rate Market: Is it Risk Premi
 heading: "Inefficiencies in the Peso-Dollar Exchange Rate Market:<br>Is it Risk Premia or Irrationality?"
 permalink: /research/fx/
 ---
-<h1 style="text-align: center;" markdown="1"> Abstract</h1>
+<h2 class="section-label">Abstract</h2>
 The efficiency of the peso-dollar exchange rate market is evaluated for
 the period 1997-2007. Considering the term structure of interest rates,
 this study finds that the efficient market hypothesis implied in the covered and

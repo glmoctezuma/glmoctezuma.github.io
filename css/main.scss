@@ -106,9 +106,6 @@ $on-laptop:        950px;
         border-radius: 3px;
     }
 
-    p {
-        text-align: justify;
-    }
 
     @include media-query($on-palm) {
         .intro-photo {
@@ -117,9 +114,6 @@ $on-laptop:        950px;
             margin: 0 auto $spacing-unit;
         }
 
-        p {
-            text-align: left;
-        }
     }
 }
 
@@ -144,3 +138,48 @@ $on-laptop:        950px;
         height: 500px;
     }
 }
+
+
+/**
+ * Comfortable measure. The wrapper stays wide for the header and footer;
+ * running text is capped near 70 characters, where reading is easiest.
+ */
+.post-content {
+    p, li, blockquote {
+        max-width: 34em;
+    }
+}
+
+/**
+ * Heading scale. The theme left h1 and h2 nearly the same size, so sections
+ * did not read as subordinate to the page title.
+ */
+.post-content, .home {
+    h1 { font-size: 1.9em; }
+    h2 {
+        font-size: 1.35em;
+        margin-top: 1.6em;
+    }
+    h3 { font-size: 1.1em; }
+}
+
+/**
+ * A quiet label for "Abstract" and similar, so it does not compete with the
+ * paper title above it.
+ */
+.section-label {
+    font-size: .8em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .09em;
+    color: $grey-color-dark;
+    margin-bottom: .4em;
+}
+.post-content h2.section-label { font-size: .8em; margin-top: 1.6em; }
+
+/**
+ * On listings, the paper title carries the weight and the coauthors recede,
+ * so the eye separates the work from the people.
+ */
+.post-content a strong { color: $heading-color; }
+.post-content a:hover strong { color: $brand-color; }

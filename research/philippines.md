@@ -4,7 +4,7 @@ title: "Policy Deliberation and Voter Persuasion: Experimental Evidence from an 
 heading: "Policy Deliberation and Voter Persuasion:<br>Experimental Evidence from an Election in the Philippines"
 permalink: /research/philippines/
 ---
-<h1 style="text-align: center;" markdown="1"> Abstract</h1>
+<h2 class="section-label">Abstract</h2>
 
 In a randomized experiment in cooperation with two national parties competing in a congressional election in the Philippines, we estimate the causal effect on voting behavior of a town-hall style campaign in which candidates discuss their campaign platform with small groups of citizens. Keeping the parties' platform fixed, we find that town-hall meetings have a positive effect on parties' vote shares compared to the status quo, in which voters play a passive role. Consistent with the parties' advocacy for underprivileged groups, we observe heterogeneous effects by income, education, and gender. Deliberative campaigns increase voters' awareness on the issues parties campaign on, affecting the vote of the direct beneficiaries of the parties' platform.
 

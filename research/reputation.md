@@ -4,7 +4,7 @@ title: "Career Concerns in Collective Decision-Making: The Federal Open Market C
 heading: "Career Concerns in Collective Decision-Making:<br>The Federal Open Market Committee"
 permalink: /research/reputation/
 ---
-<h1 style="text-align: center;" markdown="1"> Abstract</h1>
+<h2 class="section-label">Abstract</h2>
 How do career concerns affect the decision-making of public officials?
 In this paper, we study this problem in the context of the Federal
 Open Market Committee (FOMC). To tackle this problem, we combine a
