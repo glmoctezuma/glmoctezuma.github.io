@@ -10,6 +10,7 @@ We analyze the implications of seniority voting on Supreme Court decision-making
 
 *Quarterly Journal of Political Science* (2025), published online ahead of print.
 
-* [Published version (DOI)](https://doi.org/10.1108/QJPS-05-2024-0064)
-* [Download Paper](https://www.dropbox.com/scl/fi/ijsanj48z1ugp3kya1tog/scotus_seq_qjps.pdf?rlkey=j99hjx8r950mo67j0ivv6i6qh&dl=0)
-* [Download Appendix](https://www.dropbox.com/scl/fi/sby6f6iocht9er85mfzxv/SCOTUS_App_revised.pdf?rlkey=orn0f3uzui2ryhi3w8ar5qwfq&dl=0)
+* [Published version (PDF)](/pdfs/papers/seq_sc.pdf)
+* [Journal page (DOI)](https://doi.org/10.1108/QJPS-05-2024-0064)
+* [Working paper version](https://www.dropbox.com/scl/fi/ijsanj48z1ugp3kya1tog/scotus_seq_qjps.pdf?rlkey=j99hjx8r950mo67j0ivv6i6qh&dl=0)
+* [Online Appendix](https://www.dropbox.com/scl/fi/sby6f6iocht9er85mfzxv/SCOTUS_App_revised.pdf?rlkey=orn0f3uzui2ryhi3w8ar5qwfq&dl=0)

@@ -10,6 +10,7 @@ We compare how well agents aggregate information in two repeated social learning
 
 *Journal of Economic Theory*, Vol. 235 (2026), article 106203.
 
-* [Published version (DOI)](https://doi.org/10.1016/j.jet.2026.106203)
-* [Download Paper](https://www.dropbox.com/scl/fi/xinz8amkn0heggu58a6jt/revision.pdf?rlkey=8qndvve5dc3dqyepdxcvt6vmy&dl=0)
-* [Download Online Appendix](https://www.dropbox.com/scl/fi/011q37kxzkeiwjculnx0d/OnlineAppendix.pdf?rlkey=5cx8z7fob2ievthuu66bths0v&dl=0)
+* [Published version (PDF)](/pdfs/papers/learning.pdf)
+* [Journal page (DOI)](https://doi.org/10.1016/j.jet.2026.106203)
+* [Working paper version](https://www.dropbox.com/scl/fi/xinz8amkn0heggu58a6jt/revision.pdf?rlkey=8qndvve5dc3dqyepdxcvt6vmy&dl=0)
+* [Online Appendix](https://www.dropbox.com/scl/fi/011q37kxzkeiwjculnx0d/OnlineAppendix.pdf?rlkey=5cx8z7fob2ievthuu66bths0v&dl=0)

@@ -9,5 +9,6 @@ We introduce a method for scaling two datasets from different sources. The propo
 
 *Political Analysis*, Vol. 29 (2021), 212–235.
 
-* [Published version (DOI)](https://doi.org/10.1017/pan.2020.24)
+* [Published version (PDF)](/pdfs/papers/m2ds.pdf)
+* [Journal page (DOI)](https://doi.org/10.1017/pan.2020.24)
 * [Replication Materials](https://doi.org/10.24433/CO.3824807.v1)

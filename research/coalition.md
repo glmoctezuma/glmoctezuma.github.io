@@ -10,6 +10,7 @@ Electoral coalitions between ideologically incompatible parties – among other 
 
 *American Journal of Political Science*, Vol. 67, No. 4 (October 2023), 915–931.
 
-* [Published version (DOI)](https://doi.org/10.1111/ajps.12681)
+* [Published version (PDF)](/pdfs/papers/coalition.pdf)
+* [Journal page (DOI)](https://doi.org/10.1111/ajps.12681)
 * [Replication Materials](https://doi.org/10.7910/DVN/LFLCMA)
 * [Working paper version](https://www.dropbox.com/s/t83petu4aqgm65v/dynamics.pdf?dl=0)

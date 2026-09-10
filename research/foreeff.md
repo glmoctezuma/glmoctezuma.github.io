@@ -10,6 +10,7 @@ This document analyzes inflation, exchange rate, interest rate, and GDP growth f
 
 Published in Spanish as "Las expectativas macroeconómicas de los especialistas. Una evaluación de pronósticos de corto plazo en México," *El Trimestre Económico*, Vol. LXXVII (2), No. 306 (abril–junio 2010), 275–312.
 
-* [Published version](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/472)
+* [Published version (PDF)](/pdfs/papers/foreeff.pdf)
+* [Journal page](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/472)
 * [Full text (SciELO)](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2448-718X2010000200275)
 * [Working paper version](http://www.banxico.org.mx/publicaciones-y-discursos/publicaciones/documentos-de-investigacion/banxico/%7BE2EA8012-DDB7-25CA-EE78-3DF2AEC50CA0%7D.pdf)
