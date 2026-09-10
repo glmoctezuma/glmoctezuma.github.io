@@ -1,5 +1,13 @@
 source 'https://rubygems.org'
 
+# NOTE: build this with Ruby 3.3.x.
+# Every current github-pages release declares a Ruby ceiling that excludes
+# Ruby 4.x, so on 4.x bundler silently backtracks to a 2019-era github-pages
+# whose liquid 4.0.3 calls Object#tainted? -- removed in Ruby 3.2 -- and the
+# build dies rendering the first layout.
+#   brew install ruby@3.3
+#   export PATH="$(brew --prefix ruby@3.3)/bin:$PATH"
+
 # Matches what GitHub Pages runs server-side.
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-seo-tag'
