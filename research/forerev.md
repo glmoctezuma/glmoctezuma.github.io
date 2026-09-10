@@ -9,6 +9,6 @@ We analyze the forecasts of inflation and GDP growth contained in the Banco de M
 
 *International Journal of Forecasting*, Vol. 30, No. 2 (2014), 177–191.
 
-* [Published version (PDF)](/pdfs/papers/forerev.pdf)
+* [Published version (PDF)](https://www.sciencedirect.com/science/article/pii/S0169207013001003/pdf)
 * [Journal page (DOI)](https://doi.org/10.1016/j.ijforecast.2013.07.016)
 * [Working paper version](http://www.banxico.org.mx/publicaciones-y-discursos/publicaciones/documentos-de-investigacion/banxico/%7B24A16017-15C2-7A63-BC8C-2AAD402897EE%7D.pdf)

@@ -9,7 +9,7 @@ Quantifying the value that legislators give to reelection relative to policy is 
 
 *American Journal of Political Science*, Vol. 68, No. 2 (April 2024), 696–713.
 
-* [Published version (PDF)](/pdfs/papers/sendyn.pdf)
+* [Published version (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ajps.12740)
 * [Journal page (DOI)](https://doi.org/10.1111/ajps.12740)
 * [Replication Materials](https://doi.org/10.7910/DVN/MEIMWN)
 * [Working paper version](https://www.dropbox.com/s/duzm7it8wu4tl12/careerdynamics_0621.pdf?dl=0)

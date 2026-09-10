@@ -10,7 +10,7 @@ In a randomized experiment in cooperation with two national parties competing in
 
 *American Journal of Political Science*, Vol. 66, No. 1 (January 2022), 59–74.
 
-* [Published version (PDF)](/pdfs/papers/philippines.pdf)
+* [Published version (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ajps.12566)
 * [Journal page (DOI)](https://doi.org/10.1111/ajps.12566)
 * [Supporting Information](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fajps.12566&file=ajps12566-sup-0001-SuppMat.pdf)
 * [Replication Materials](https://doi.org/10.7910/DVN/S3HACJ)
