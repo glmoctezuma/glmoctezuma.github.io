@@ -191,5 +191,5 @@ $on-laptop:        950px;
  * On listings, the paper title carries the weight and the coauthors recede,
  * so the eye separates the work from the people.
  */
-.post-content a strong { color: $heading-color; }
-.post-content a:hover strong { color: $brand-color; }
+.post-content li a strong { color: $heading-color; }
+.post-content li a:hover strong { color: $brand-color; }
