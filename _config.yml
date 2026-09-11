@@ -17,7 +17,7 @@ plugins:
 markdown: kramdown
 
 # Other options
-jobtitle: Assistant Professor in Political Science
+jobtitle: Assistant Professor
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
