@@ -193,3 +193,14 @@ $on-laptop:        950px;
  */
 .post-content li a strong { color: $heading-color; }
 .post-content li a:hover strong { color: $brand-color; }
+
+/**
+ * Sub-group labels within a section (e.g. Instructor / Preceptor under
+ * Princeton). Plain weight and body size, so they group without shouting.
+ */
+.post-content h2.subhead {
+    font-size: 1em;
+    font-weight: 400;
+    margin-top: 1.2em;
+    margin-bottom: .3em;
+}

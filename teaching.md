@@ -19,10 +19,12 @@ permalink: /teaching/
 # Princeton University
 
 ## Instructor
+{: .subhead}
 
 * [Politics Math Camp](/teaching/mathcamp/) with [Yuki Shiraito](http://scholar.princeton.edu/shiraito).
 
 ## Preceptor
+{: .subhead}
 
 * [Quantitative Analysis I](/teaching/quantdavid/) for [David Carter](https://www.princeton.edu/~dbcarter).
 
