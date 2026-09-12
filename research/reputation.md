@@ -5,27 +5,10 @@ heading: "Career Concerns in Collective Decision-Making:<br>The Federal Open Mar
 permalink: /research/reputation/
 ---
 <h2 class="section-label">Abstract</h2>
-How do career concerns affect the decision-making of public officials?
-In this paper, we study this problem in the context of the Federal
-Open Market Committee (FOMC). To tackle this problem, we combine a
-structural approach with an unanticipated change in the information
-available to the public about internal committee
-deliberations. Exploiting the regime change and the restrictions on
-behavior implied by the equilibrium of the model, we (i) estimate the
-intrinsic value that FOMC members give to reputation, (ii) clarify the
-distortions in behavior induced by career concerns, (iii) quantify the
-probability of correct recommendations, and (iv) assess the
-performance of the FOMC under committee compositions and economic
-conditions not observed in the data. While the conventional wisdom
-suggests that Transparency can be detrimental to welfare by inducing
-anti-pandering and conformism, our results challenge this view. We
-show that career concerns have significant effect on equilibrium
-outcomes, but that the dominant effect of career concerns is to
-moderate biases, in order to mimic expert behavior. This counteracts
-heterogeneity in preferences, and can lead to improvements in welfare,
-even in spite of increased conformity for some committee members.
-<br>
-<br>
-<br>
-<span style="color: blue"> [Download Paper (Last Version: May, 2025)](https://www.dropbox.com/scl/fi/fh021ns6sfm0que06a9oj/reputation_FOMC3.pdf?rlkey=ckqpc3om275345m03crc9mkn3&dl=0) </span>
 
+In this paper, we quantify the distortions induced by career concerns within the Federal Open Market Committee (FOMC). We combine a structural approach with an unanticipated change in the information available to the public about internal committee deliberations. We show that – given the policy preferences of Fed Presidents and Board Governors serving in the FOMC – agents' incentives to appear competent and unbiased outweigh the distortions induced by anti-pandering and conformity. Relative to a counterfactual with no reputational considerations, career concerns improve the welfare of an unbiased principal. Given our estimates of career concerns, Transparency improves welfare relative to an Opaque regime in which internal deliberations are not made public. In a counterfactual exercise, we show that greater heterogeneity in regional shocks reduces conformity but increases policy errors under Transparency.
+
+With [Matias Iaryczower](http://scholar.princeton.edu/miaryc/) and Paola Moscariello. *Under Review.*
+
+* [Download Paper (Last version: January 2026)](/pdfs/papers/reputation.pdf)
+* [Download Appendix](/pdfs/papers/reputation_appendix.pdf)
