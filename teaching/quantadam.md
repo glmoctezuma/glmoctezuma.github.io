@@ -18,7 +18,3 @@ projection and optimization. If time permits we will also introduce
 Maximum likelihood estimation. I precepted
 this course for [Adam Meirowitz](http://www.princeton.edu/~ameirowi/) in the
 fall of 2012.
-<br>
-<br>
-<span style="color: blue"> [Course Syllabus](https://www.dropbox.com/s/z05xc6woqz6pat9/pol571_syl.pdf) </span>
-

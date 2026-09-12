@@ -13,7 +13,3 @@ establishing and learning basic concepts and developing the tools and
 techniques needed to move on to more advanced material. I precepted
 this course for [David Carter](https://www.princeton.edu/~dbcarter) in the
 fall of 2013.
-<br>
-<br>
-<span style="color: blue"> [Course Syllabus](https://www.dropbox.com/s/aopio4bmhn7jxty/syllabus571_f13.pdf) </span>
-
